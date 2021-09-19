@@ -21,6 +21,6 @@
 
 <p align="center">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanet&langs_count=5&layout=compact&hide=html&theme=radical" alt="batuhan"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emanet&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcaybatu&langs_count=5&layout=compact&hide=html&theme=radical" alt="akcaybatu"/> --->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=akcaybatu&include_all_commits=true&count_private=true&show_icons=true&theme=radical"/>
 </p>
