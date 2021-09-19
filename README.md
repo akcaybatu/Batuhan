@@ -1,4 +1,3 @@
-# Batuhan
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h4 align="center" >22 y/o Software Developer </h2>
 
