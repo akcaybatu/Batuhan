@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h4 align="center" >22 y/o Software Developer </h2>
 
-<!--<p align="middle"> <img src="https://komarev.com/ghpvc/?username=emanet&label=Profile%20views&color=0e75b6&style=flat" alt="emanet" /></p>--->
 <h3 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-ak%C3%A7ay-9501b3183/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
