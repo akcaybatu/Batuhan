@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h4 align="center" >22 y/o Software Developer </h2>
+<h4 align="center" >22 y/o Technology Lover </h2>
 
 <h3 align="center">Connect with me:</h2>
 <p align="center">
